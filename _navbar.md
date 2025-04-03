@@ -1,0 +1,5 @@
+* [首页](/)
+* [指南](/guide/)
+* [API](/api/)
+* [常见问题](/faq/)
+* [GitHub](https://github.com) 
